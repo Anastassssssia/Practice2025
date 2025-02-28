@@ -6,28 +6,37 @@
 <h3>1. Екрани авторизації та реєстрації:</h3>
 <p>Ці екрани дозволяють користувачам зареєструватися в системі та авторизуватися для доступу до функціоналу додатку.</p> <br>
 
-https://github.com/user-attachments/assets/92da6260-eaba-4ec2-a4f6-09ec817c0c85
+https://github.com/user-attachments/assets/0f52b697-38f2-4835-b5d8-7c023715a999
+
 
 
 <br>
 <h3>2. Екран фільтра:</h3>
 <p>Екран дозволяє користувачам фільтрувати об'єкти нерухомості за різними критеріями для зручного пошуку.</p><br>
 
-https://github.com/user-attachments/assets/b62e5c84-2b05-4008-84ae-6d1c9a17cf92
+
+https://github.com/user-attachments/assets/49570cc7-280e-4c83-aa02-134115e49f46
+
+
 
 
 <br>
 <h3>3. Екран нерухомостей:</h3>
 <p>Цей екран відображає список доступних об'єктів нерухомості з можливістю перегляду детальної інформації.</p><br>
 
-https://github.com/user-attachments/assets/8da41f1a-70b8-4fe8-8c69-2d91763ba28f
+
+https://github.com/user-attachments/assets/eaed36d8-0d7f-4cb2-b9c2-db1edf3c76dc
+
+
 
 
 <br>
 <h3>4. Екран нерухомості:</h3>
 <p>Екран надає користувачам детальну інформацію про окремий об'єкт нерухомості, включаючи фото, опис та контактні дані рієлтора.</p><br>
 
-https://github.com/user-attachments/assets/a52b4e50-e43d-4acd-b280-f7d43d5ebc61
+
+https://github.com/user-attachments/assets/684aa74d-76c5-4a3d-a8f6-c1841d59cbe2
+
 
 
 
@@ -36,7 +45,9 @@ https://github.com/user-attachments/assets/a52b4e50-e43d-4acd-b280-f7d43d5ebc61
 <h3>5. Екран додавання нерухомості:</h3>
 <p>Рієлтори можуть додавати нові об'єкти нерухомості через цей екран, заповнюючи необхідні поля.</p><br>
 
-https://github.com/user-attachments/assets/7fb2dbfb-09bd-4389-abac-811a570b61bc
+
+https://github.com/user-attachments/assets/c6eecf7f-932e-4aa8-97be-ca1200edb4a6
+
 
 
 
@@ -44,14 +55,21 @@ https://github.com/user-attachments/assets/7fb2dbfb-09bd-4389-abac-811a570b61bc
 <h3>6. Екрани заявок та додавання:</h3>
 <p>Ці екрани дозволяють створювати заявки на об'єкти нерухомості та переглядати їх.</p><br>
 
-https://github.com/user-attachments/assets/7c6ecd59-131a-436d-a112-09279dcc06b6
+
+
+https://github.com/user-attachments/assets/6d7e0b95-bd60-465b-a40e-04cf7ba01b23
+
+
 
 
 <br>
 <h3>7. Екрани договорів та додавання:</h3>
 <p>Екрани, де користувачі можуть переглядати договори та додавати нові.</p><br>
 
-https://github.com/user-attachments/assets/514b27ce-b34f-4ef5-86ca-9382281bacc5
+
+
+https://github.com/user-attachments/assets/6f93f16f-85f9-41dc-988b-d6b4db825cd3
+
 
 
 
@@ -59,5 +77,7 @@ https://github.com/user-attachments/assets/514b27ce-b34f-4ef5-86ca-9382281bacc5
 <h3>8. Екран клієнти:</h3>
 <p>Екран для перегляду та управління даними клієнтів.</p><br>
 
-https://github.com/user-attachments/assets/1964be19-1d40-4946-aa2a-e207cc6d3c3b
+
+https://github.com/user-attachments/assets/423336cf-2580-41bb-868c-14c0dd48bdf6
+
 
